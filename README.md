@@ -2,9 +2,15 @@
 
 ## Dot Files
 - i3
-- rofi
 - polybar
 - urxvt
+
+## Other Details
+
+- Rofi theme - Sidebar by qball
+- Spacemacs for emacs (Yeah, I'm one of those)
+- 
+
 
 ## Screenshots
 
