@@ -5,11 +5,10 @@
 - polybar
 - urxvt
 
-## Other Details
+## Other Shit
 
 - Rofi theme - Sidebar by qball
 - Spacemacs for emacs (Yeah, I'm one of those)
-- 
 
 
 ## Screenshots
